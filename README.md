@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at WovenFinance as a Software Engineer
 - Check my 🖋 [Technical Articles](https://dev.to/pc_codes) or 🌱 [Portfolio](https://www.pascalulor.com/)
 - 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about Javascript, NodeJS, React, Python, AWS
+- 💬 Ask me about Javascript, NodeJS, React, Python, AWS, Algorithms
 - 📫 How to reach me: Email: pascalulor@yahoo.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love comics (DC Fanboy)
