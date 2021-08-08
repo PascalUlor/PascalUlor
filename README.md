@@ -7,7 +7,8 @@
 </a>
 
 
-- 🔭 I’m currently working at WovenFinance as a Software Engineer
+- 🔭 I’m currently building Fintech solutions at WovenFinance
+- 🌱 I’m currently into Cloud Technologies (AWS)
 - Check my 🖋 [Technical Articles](https://dev.to/pc_codes) or 🌱 [Portfolio](https://www.pascalulor.com/)
 - 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Javascript, NodeJS, React, Python, AWS, Algorithms
