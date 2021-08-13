@@ -24,6 +24,8 @@
   <h2 align="center">
       🛠️ My Work Tools
   </h2>
+  
+<br/>
 
   <h4 align="left">
       👨‍💻  Programming languages
@@ -42,6 +44,8 @@
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
   </p>
 
+
+<br/>
   
   <h4 align="left">
       🧰  Frameworks and libraries
@@ -57,6 +61,7 @@
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
   </p>
 
+<br/>
 
   <h4 align="left">
     🗄️  Databases and cloud hosting
@@ -72,6 +77,7 @@
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
   </p>
 
+<br/>
 
   <h4 align="left">
     💻  Software and tools
@@ -95,14 +101,11 @@
 
 
 
-<!-- <a href="https://github.com/PascalUlor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PascalUlor&show_icons=true&theme=merko&count_private=true" alt="PascalUlor's github stats" />
+<a href="https://github.com/PascalUlor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PascalUlor&show_icons=true&theme=dracula&count_private=true" alt="PascalUlor's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PascalUlor&theme=merko&layout=compact" alt="PascalUlor's github top languages" />
-</a> -->
+</a>
 
-![PascalUlor's github stats](https://github-readme-stats.vercel.app/api?username=PascalUlor&count_private=true&show_icons=true&theme=dracula) 
-
-![PascalUlor's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PascalUlor&theme=blue-green&layout=compact)
 
 <br/>
 
