@@ -26,7 +26,7 @@
       🛠️ My Work Tools
   </h2> -->
 
-  <h3 align="center">
+  <h3 align="left">
       👨‍💻 Programming languages
   </h3>
 
