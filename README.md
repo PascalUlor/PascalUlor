@@ -26,7 +26,7 @@
   </h2>
 
   <h4 align="left">
-      👨‍💻 Programming languages
+      👨‍💻  Programming languages
   </h4>
 
 
@@ -44,7 +44,7 @@
 
   
   <h4 align="left">
-      🧰 Frameworks and libraries
+      🧰  Frameworks and libraries
   </h4>
 
 
@@ -59,7 +59,7 @@
 
 
   <h4 align="left">
-    🗄️ Databases and cloud hosting
+    🗄️  Databases and cloud hosting
   </h4>
 
 
@@ -74,7 +74,7 @@
 
 
   <h4 align="left">
-    💻 Software and tools
+    💻  Software and tools
   </h4>
 
 
@@ -89,6 +89,7 @@
       <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
       <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png"></code>
       <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+      <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
   </p>
 
 
