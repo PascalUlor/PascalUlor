@@ -26,9 +26,9 @@
       🛠️ My Work Tools
   </h2> -->
 
-  <h3 align="left">
+  <h4 align="left">
       👨‍💻 Programming languages
-  </h3>
+  </h4>
 
   <p align="left">
   <!-- <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -51,9 +51,9 @@
   </p>
 
   
-  <h3 align="left">
+  <h4 align="left">
       🧰 Frameworks and libraries
-  </h3>
+  </h4>
 
   <p align="left">
   <!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
@@ -72,9 +72,9 @@
   </p>
 
 
-  <h3 align="left">
+  <h4 align="left">
     🗄️ Databases and cloud hosting
-  </h3>
+  </h4>
 
   <p align="left">
   <!-- <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -92,9 +92,9 @@
   </p>
 
 
-  <h3 align="left">
+  <h4 align="left">
     💻 Software and tools
-  </h3>
+  </h4>
 
   <p align="left">
     <!-- <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
