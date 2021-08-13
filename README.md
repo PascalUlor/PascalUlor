@@ -95,10 +95,15 @@
 
 
 
-<a href="https://github.com/PascalUlor">
+<!-- <a href="https://github.com/PascalUlor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PascalUlor&show_icons=true&theme=merko&count_private=true" alt="PascalUlor's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PascalUlor&theme=merko&layout=compact" alt="PascalUlor's github top languages" />
-</a>
+</a> -->
+
+![PascalUlor's github stats](https://github-readme-stats.vercel.app/api?username=PascalUlor&count_private=true&show_icons=true&theme=dracula) 
+
+![PascalUlor's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PascalUlor&theme=blue-green&layout=compact)
+
 <br/>
 
 <!--
